@@ -4,3 +4,7 @@ I am a Computer Science and Engineering student at REVA University, Bengaluru. I
 Learning Java, C, JavaScript and React.
 Interested in web development, startups and hackathons.
 Goal: Become a skilled software developer and build innovative applications.
+## Projects
+
+### JPS DAMBAL School Website
+Developed a school website for Jnyanabindu Public School using HTML, CSS and JavaScript. The website provides information about the school, its academics and activities.

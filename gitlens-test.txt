@@ -1,0 +1,4 @@
+B25CS0311 - Activity 2
+GitLens Extension Test
+My name is Vedaksha.
+I am learning GitLens in VS Code.
